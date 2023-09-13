@@ -9,7 +9,7 @@ public class AssignmentNo1 {
 	}
 
 	public void method2() {
-		System.out.println("Automation is very easy..");
+		System.out.println("Automation is very easy");
 	}
 
 	public static void main(String[] args) {
