@@ -5,7 +5,7 @@ public class AssignmentNo1 {
 	int r;
 
 	public void method() {
-		System.out.println("Welcome to all of you");
+		System.out.println("New Batch");
 	}
 
 	public void method2() {
